@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <enforce_license>none</enforce_license>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license_category>none</license_category>
+        <license_model>none</license_model>
+        <logo/>
+        <menu display_value="extrawaganda">b9024707dbde7bc0fdc880e239961992</menu>
+        <name>extrawaganda</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_aits2_extrawagan</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description/>
+        <source>x_aits2_extrawagan</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>artur.snusz</sys_created_by>
+        <sys_created_on>2019-07-02 08:58:04</sys_created_on>
+        <sys_id>fd020307dbde7bc0fdc880e23996198c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>artur.snusz</sys_updated_by>
+        <sys_updated_on>2019-07-02 08:58:04</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <u_validated/>
+        <user_role display_value="x_aits2_extrawagan.user" name="x_aits2_extrawagan.user">75024707dbde7bc0fdc880e239961996</user_role>
+        <vendor/>
+        <vendor_prefix/>
+        <version/>
+    </sys_app>
+</record_update>
